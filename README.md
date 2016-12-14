@@ -1,2 +1,2 @@
 # linux
-hello world
+echo "hello world"
